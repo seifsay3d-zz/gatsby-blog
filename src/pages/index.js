@@ -5,6 +5,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
+import "../css/index.css"
 
 class BlogIndex extends React.Component {
   render() {
@@ -15,8 +16,16 @@ class BlogIndex extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-          title="All posts"
-          keywords={[`blog`, `gatsby`, `javascript`, `react`]}
+          title="Seif Sayed"
+          keywords={[
+            `blog`,
+            `duck`,
+            `javascript`,
+            `debugging`,
+            `friend`,
+            `seif sayed`,
+            `frontend`,
+          ]}
         />
         <Bio />
         {posts.map(({ node }) => {
@@ -26,6 +35,7 @@ class BlogIndex extends React.Component {
               <h3
                 style={{
                   marginBottom: rhythm(1 / 4),
+                  color: "#7f8181",
                 }}
               >
                 <Link style={{ boxShadow: `none` }} to={node.fields.slug}>

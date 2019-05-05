@@ -1,0 +1,36 @@
+body {
+  color: #20211d;
+}
+
+a {
+  color: #585e61;
+}
+/**
+ * Based on copypasta from Remy Bach and Sarah Drasner
+ */
+code[class*="language-"],
+pre[class*="language-"] {
+  border: 0;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.5;
+  margin-bottom: 20px;
+
+  -moz-tab-size: 4;
+  -o-tab-size: 4;
+  tab-size: 4;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+  overflow: auto;
+  padding: 1.3125rem;
+}
