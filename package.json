@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "duck-friend",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Inspired by duck debugging, Sharing my thoughts with like minded people",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Seif Sayed <seifsayed@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/seifsay3d/gatsby-blog"
   },
   "dependencies": {
     "gatsby": "^2.4.2",
@@ -38,15 +38,21 @@
   "devDependencies": {
     "prettier": "^1.17.0"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://duckfriend.netlify.com/",
   "keywords": [
-    "gatsby"
+    "frontend",
+    "development",
+    "improvment",
+    "vuejs",
+    "code",
+    "javascript",
+    "web"
   ],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/seifsay3d/gatsby-blog"
   },
   "scripts": {
     "build": "gatsby build",

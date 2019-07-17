@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Duck Friend`,
     author: `Seif sayed`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Inspired by duck debugging, Sharing my thoughts with like minded people"`,
+    siteUrl: `https://duckfriend.netlify.com/`,
     social: {
       twitter: `seifsayed`,
     },
