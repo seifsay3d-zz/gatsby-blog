@@ -1,3 +1,9 @@
+---
+title: Does this data go to vuex or local state
+date: "2019-05-20T22:12:03.284Z"
+description: When to store your data in vuex and vs local component state.
+---
+
 Hi Friend,
 
 Recently I was having a conversation with another friend and we ended up not being able to define a solid answer about a very common task.
