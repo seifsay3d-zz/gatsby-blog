@@ -2,7 +2,7 @@
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-    <img alt="Gatsby" src="content/assets/duck.png" width="60" />
+    <img alt="Duck Friend" src="content/assets/duck.png" width="60" />
 </p>
 <h1 align="center">
   Duck Friend
