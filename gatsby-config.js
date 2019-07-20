@@ -3,7 +3,7 @@ module.exports = {
     title: `Duck Friend`,
     author: `Seif sayed`,
     description: `Inspired by duck debugging, Sharing my thoughts with like minded people"`,
-    siteUrl: `https://duckfriend.netlify.com/`,
+    siteUrl: `https://duckfriend.dev/`,
     social: {
       twitter: `seifsayed`,
     },
@@ -63,7 +63,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#fbf3f2`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/duck.png`,
       },
     },
     `gatsby-plugin-offline`,
